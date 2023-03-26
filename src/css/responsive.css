@@ -2,4 +2,7 @@
     .card{
         padding: 20px;
     }
+    .card picture{
+        margin-bottom: 30px;
+    }
 }
